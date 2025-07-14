@@ -3,7 +3,7 @@
 This repository provides the official PyTorch implementation of the paper:
 
 > **Scene Degradation-Aware Fusion Network for Robust Infrared and Visible Image Synthesis in Extreme Conditions**  
-> *Submitted to The* ***The Visual Computer***
+> *Submitted to The* ***Visual Computer***
 
 The method consists of three major components:
 
