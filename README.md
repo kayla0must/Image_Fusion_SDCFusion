@@ -24,3 +24,5 @@ Repository Structure
 ├── Train.py              # Fusion training script (Stage 2 & 3)
 ├── Train_CLS.py          # Scene classifier training script (Stage 1)
 ├── README.md             # This documentation
+
+Your comments and citation are welcome.
