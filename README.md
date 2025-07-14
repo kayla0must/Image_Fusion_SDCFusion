@@ -1,4 +1,4 @@
-# SDCFuse: Scene Degradation-Aware Infrared-Visible Image Fusion in Extreme Conditions
+# Scene Degradation-Aware Fusion Network for Robust Infrared and Visible Image Synthesis in Extreme Conditions
 
 This repository provides the official PyTorch implementation of the paper:
 
